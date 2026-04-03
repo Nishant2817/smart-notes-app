@@ -26,4 +26,13 @@ A full-stack notes application with authentication and AI support.
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### 🏠 Landing Page
+
+![Landing Page](./public/Smart Notes Landing Page.png)
+
+### 🏠 Signup Page
+
+![Signup Page](./public/Signup Page.png)
+
+
+
