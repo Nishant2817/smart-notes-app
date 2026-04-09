@@ -28,11 +28,11 @@ A full-stack notes application with authentication and AI support.
 
 ### 🏠 Landing Page
 
-![Landing Page](./public/screenshots/Smart%20Notes%20Landing%20Page.png )
+![Landing Page](./public/screenshots/Smart%20Notes%20Landing%20Page.png)
 
 ### 🏠 Signup Page
 
 ![Signup Page](./public/screenshots/Signup%20Page.png)
 
-
-
+### Live Demo
+https://smart-notes-app-coral.vercel.app/
